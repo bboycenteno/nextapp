@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'juniorj-nextapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_950475BBF50E4D9F8E2F2EABC540BD60 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_599DB8F8A1CD4EB39360B7BE303FAFCA }}
           package: .
